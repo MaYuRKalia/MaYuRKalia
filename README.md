@@ -6,5 +6,5 @@
 - 💬 Ask me about  Basic FullStack languages and framework
 - 📫 How to reach me: mayurkalia66@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: A straw only have one hole.
+- ⚡ Fun fact: A straw only has one hole.
 
